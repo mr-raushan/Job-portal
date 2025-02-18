@@ -182,5 +182,3 @@ export default function CompanySetup() {
     </div>
   );
 }
-
-// 10:38:00
